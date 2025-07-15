@@ -20,7 +20,11 @@ HEAD
         filled
         type="number"
         v-model="age"
+<<<<<<< HEAD
         label="your age *"
+=======
+        label="อายุของคุณ*"
+>>>>>>> 4eecc82 (th-lang)
         lazy-rules
         :rules="[
           val => val !== null && val !== '' || 'Please type your age',

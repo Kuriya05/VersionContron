@@ -37,10 +37,11 @@ HEAD
     </q-form>
 
   </div>
-<<<<<<< HEAD
+ HEAD
+ HEAD
 </template>
->>>>>>> d30582c (eng-merge)
-=======
+ d30582c (eng-merge)
+
   <script>
 import { useQuasar } from 'quasar'
 import { ref } from 'vue'
@@ -84,4 +85,7 @@ export default {
 }
 </script>
 </template>
->>>>>>> 7c179da (Add script part)
+ 7c179da (Add script part)
+
+</template>
+ fd0c64d (eng-nerVs)
